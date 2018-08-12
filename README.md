@@ -109,3 +109,4 @@
 ------
 
 #### 项目框架图示：
+![SSM-CRUD实战练习总结](https://github.com/Runewbie/SSM-CRUD/blob/master/Readme/SSM-CRUD%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A0%E6%80%BB%E7%BB%93.png)
